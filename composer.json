@@ -1,9 +1,10 @@
 {
-    "name": "laravel-notification-channels/smsc-ru",
+    "name": "lumecent/smsc-ru",
     "description": "SmscRu Notifications channel for Laravel 5.3.",
     "keywords": ["laravel", "notifications", "smscentre", "smsc", "СМС-Центр"],
     "homepage": "https://github.com/laravel-notification-channels/smsc-ru",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "JhaoDa",
@@ -17,9 +18,9 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "guzzlehttp/guzzle": "^7.0.1",
-        "illuminate/queue": "5.1 - 5.8|^6.0|^7.0|^8.0|^9.0",
-        "illuminate/notifications": "5.1 - 5.8|^6.0|^7.0|^8.0|^9.0",
-        "illuminate/support": "5.1 - 5.8|^6.0|^7.0|^8.0|^9.0"
+        "illuminate/queue": "5.1 - 5.8|^6.0|^7.0|^8.0|^9.0|^10.0",
+        "illuminate/notifications": "5.1 - 5.8|^6.0|^7.0|^8.0|^9.0|^10.0",
+        "illuminate/support": "5.1 - 5.8|^6.0|^7.0|^8.0|^9.0|^10.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.3",

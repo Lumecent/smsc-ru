@@ -4,7 +4,7 @@
     "keywords": ["laravel", "notifications", "smscentre", "smsc", "СМС-Центр"],
     "homepage": "https://github.com/laravel-notification-channels/smsc-ru",
     "license": "MIT",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "JhaoDa",
